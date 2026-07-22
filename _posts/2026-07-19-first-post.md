@@ -2,7 +2,6 @@
 title: "معرفی و شروع پروژه Mini-AdTech-Platform:"
 date: 2026-07-19 10:00:00 +0000
 categories: [Mini AdTech Platform , معرفی]
-tags: [شروع, معرفی-Mini AdTech Platform ]
 ---
 
 ## 🎯 معرفی
