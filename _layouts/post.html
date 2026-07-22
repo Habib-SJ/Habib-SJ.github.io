@@ -40,7 +40,9 @@ layout: base
       {% endif %}
 
       <div class="blog-post">
-        {{ content }}
+        <div class="post-content" {% if page.lang == 'fa' %}dir="rtl" style="text-align: justify; font-family: 'Vazir', 'Tahoma', sans-serif;"{% endif %}>
+          {{ content }}
+        </div>
       </div>
 
       {% if page.tags.size > 0 %}
