@@ -1,9 +1,9 @@
 # Site settings
 
 source: src
-title: سیمرغ # site title
+title: نوشته های حبیب # site title
 description: >- # site description
-  یک تم فارسی برای Jekyll.  کد سیمرغ در <a href="https://github.com/mhdzli/simorq" target="_blank" rel="noopener">گیت‌هاب</a>.
+  اگر قرار است غرق شوم بهتر است در یک دریای بزرگ غرق شوم
 lang: fa # default lang
 date_format: fa-IR # fa-IR || en-US -- set to fa-IR for persian dates
 timezone: Asia/Tehran # set your timezone
@@ -13,15 +13,15 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: اسم شما # author name
+  name: حبیب شیرزایی # author name
   bio: >- # tell to the world
-    یک تم Jekyll برای وبلاگ فارسی. اگر تم روشن را بیشتر می‌پسندید، روی خورشید بالای صفحه سمت راست کلیک کنید.
+   یک مهندس نرم افزار
 
     لینک این پروژه در
     <a href="https://github.com/mhdzli/simorq" target="_blank" rel="noopener">گیت‌هاب</a>.
 
-  username: your_username # general username
-  github: your_github_username # github username
+  username: Habib-SJ # general username
+  github: Habib-SJ # github username
   twitter: your_twitter_username # twitter username
   # you can add your accounts of other social media  but you need to edit footer.html in _includes directory and add other sosial media links based on existing  templates
 
@@ -34,7 +34,7 @@ author:
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
-url: "https://example.anything" # your domain
+url: "Habib-SJ.github.io" # your domain
 baseurl:
 permalink: /:title/
 google_analytics: # leave it blank if not wish
