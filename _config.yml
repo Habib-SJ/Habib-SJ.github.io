@@ -15,11 +15,8 @@ mode: dark # default theme "dark" | "light"
 author:
   name: حبیب شیرزایی # author name
   bio: >- # tell to the world
-   |یک مهندس نرم افزار|
    اگر قرار است غرق شوم بهتر است در یک دریای بزرگ غرق شوم
-
-    لینک این پروژه در
-    <a href="https://github.com/Habib-SJ/Mini-AdTech-Platform" target="_blank" rel="noopener">گیت‌هاب</a>.
+   <a href="https://github.com/Habib-SJ/Mini-AdTech-Platform" target="_blank" rel="noopener">لینک پروژه</a>.
 
   username: Habib-SJ # general username
   github: Habib-SJ # github username
