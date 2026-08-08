@@ -1,3 +1,12 @@
+---
+title: فاز صفر= معماری نقش ها و کاربران
+date: 2026-07-28 08:58:47 +03:30
+tags: [AdTech, یکتانت, yektanet]
+description: ین پروژه یک Mini AdTech Platform است که چرخه‌ی اصلی یک سیستم تبلیغات کلیکی را در قالب یک MVP شبیه‌سازی می‌کند.
+image: "/simorq/simorq.png"
+---
+
+
 # User & Role Architecture
 
 ## Overview
